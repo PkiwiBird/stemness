@@ -1,5 +1,5 @@
 setwd("C:/Users/Tania_2/Internship/R/Results/ranked.lists")
-## NOTE!: - We could have done a simplier code (rank_vs_nºpublications_memmoryproblem.R), but due to a memmory problem we had to use the present script instead
+## NOTE!: - We could have done a simplier code (rank_vs_nÂºpublications_memmoryproblem.R), but due to a memmory problem we had to use the present script instead
 ##        - Here Matthias run on his computer a script to get all pubmed ids with term 'stem cell' either only in Title/Abstract or on all article
 ##          Then those pubmed ids can be crossed with pubmed ids for publications with a certain gene
 
