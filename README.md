@@ -1,5 +1,4 @@
-# stemness
-Comparison and functional/network analysis of stemness gene sets
+### Comparison and functional/network analysis of stemness gene sets
 Stem cells encompass a variety of different cell types which converge on the dual capacity to self-renew
 and differentiate into one or more lineages. These characteristic features are key for the involvement of
 stem cells in crucial biological processes such as development and aging. To decipher their underlying
