@@ -12,4 +12,4 @@ signatures. Such integrated signatures help to exclude false-positives that can 
 studies and can provide a more robust basis for investigation. To gain further insights into the relevance of
 ISSs, their genes were functionally annotated and connected within a molecular interaction network. Most
 importantly, the present analysis points to the role of several less well-studied genes in stemness and thus
-provides promising candidates for further experimental validation
+provides promising candidates for further experimental validation.
